@@ -43,3 +43,7 @@ You need to have NASM (Netwide Assembler) and LD (GNU linker) installed on your 
 * Your score is updated based on the result.
 
 * You can choose to quit the game at any time.
+
+## Contributions
+
+Contributions to this project are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request.

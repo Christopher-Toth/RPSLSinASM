@@ -32,7 +32,7 @@ You need to have NASM (Netwide Assembler) and LD (GNU linker) installed on your 
 
 7. When you're done playing, the game will display your final score and exit.
 
-##Gameplay
+## Gameplay
 
 * The game displays your score and asks you to choose an option (0-Rock, 1-Paper, 2-Scissors, 3-Lizard, 4-Spock, 5-Quit).
 
